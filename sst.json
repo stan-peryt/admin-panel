@@ -1,0 +1,5 @@
+{
+  "name": "admin-panel",
+  "region": "eu-central-1",
+  "main": "stacks/index.ts"
+}

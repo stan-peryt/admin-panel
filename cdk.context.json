@@ -1,0 +1,7 @@
+{
+  "ssm:account=863345225162:parameterName=/route53/subdomain/zoneName:region=eu-central-1": "dev-stanislaw.open-pay.com",
+  "hosted-zone:account=863345225162:domainName=dev-stanislaw.open-pay.com:region=eu-central-1": {
+    "Id": "/hostedzone/Z02558672MPG9KW82MX6R",
+    "Name": "dev-stanislaw.open-pay.com."
+  }
+}
